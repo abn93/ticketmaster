@@ -1,5 +1,5 @@
-export const environmentLocal = {
+export const environment = {
   production: false,
   apiUrl: 'https://app.ticketmaster.com/discovery/v2/',
-  apiToken: 'token'
+  apiToken: 'D1Mg7KRWLgJ73Cc224470aHqvIaIbzHu'
 };
